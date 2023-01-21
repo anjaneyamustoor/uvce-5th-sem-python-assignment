@@ -1,4 +1,4 @@
-Online Quiz Application Using Python Tkinter
+# Online Quiz Application Using Python Tkinter
 
 A Quiz application using Python Tkinter would be a program that uses the Tkinter
 library to create a graphical user interface for a quiz. Tkinter is a built-in Python
@@ -11,13 +11,11 @@ labels for the question and answer choices, and buttons for submitting answers.
 Then, you would need to write code to handle the logic of the quiz, such as
 displaying questions, checking answers, and keeping track of the user's score. 
 
-# Please Fork or Star the repo before cloning to your local system
+Please Fork or Star the repo before cloning to your local system
 
-# Quiz-App
-A quiz app created with GUI in python using tkinter.
+This quiz app contains question about the programming language Python and has three level of hardness i.e. Easy, Medium and Hard.
 
-`This quiz app contains question about the programming language Python and has three level of hardness i.e. Easy, Medium and Hard.`
+How to Run.
 
-# How to Run.
 Download all the files in the same folder.
 Then run the main.py file.
